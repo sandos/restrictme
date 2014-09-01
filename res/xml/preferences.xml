@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <CheckBoxPreference
+                android:key="active"
+                android:title="Block settings app"
+                android:summary="Block the Settings app in a restricted profile" />
+
+</PreferenceScreen>
